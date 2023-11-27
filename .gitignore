@@ -1,2 +1,5 @@
+#build
 /target/
+#eclipse
 .settings
+.project
