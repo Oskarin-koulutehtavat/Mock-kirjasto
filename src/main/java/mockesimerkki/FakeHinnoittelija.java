@@ -11,4 +11,19 @@ public class FakeHinnoittelija implements IHinnoittelija {
 		return alennus;
 	}
 
+	public void setAlennusProsentti(Asiakas asiakas, float f) {
+		this.alennus = f;
+		
+	}
+
+	public void aloita() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void lopeta() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
